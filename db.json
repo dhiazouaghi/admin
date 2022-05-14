@@ -1,1 +1,12 @@
-
+{
+"admin": [
+    {
+      "id": 1,
+      "nom": "Hamdi",
+      "prenom": "Hejer",
+      "email": "abcd@gmail.com",
+      "motdepasse": "122345"
+      
+     }
+      ]
+}
