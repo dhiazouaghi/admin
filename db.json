@@ -1,11 +1,12 @@
 {
-  "posts": [
+  "admin": [
     {
       "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "nom": "Hamdi",
+      "prenom": "Hejer",
+      "email": "abcd@gmail.com",
+      "motdepasse": "122345"
+      
+     }
+      ]
 }
